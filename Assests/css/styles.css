@@ -1,13 +1,17 @@
+.logo{
+    text-align: left;
+   text-decoration-color: black;
+}
 .class-for-index{
-    background: blue;
-
+    background: gray;
+    text-align: center;
 }
 .class-for-portfolio{
-    background: blue;
+    background: grey;
 
 }
 .class-for-contact{
-    background: blue;
-
-
+    background: grey;
 }
+
+
